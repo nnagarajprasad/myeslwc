@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Base_Daily_Booking_Rate__c</field>
+                <field>Daily_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>

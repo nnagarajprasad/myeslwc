@@ -3,7 +3,7 @@
     <fullName>Total_Daily_Booking_Rate__c</fullName>
     <externalId>false</externalId>
     <label>Total Daily Booking Rate</label>
-    <summarizedField>Space__c.Base_Daily_Booking_Rate__c</summarizedField>
+    <summarizedField>Space__c.Daily_Booking_Rate__c</summarizedField>
     <summaryForeignKey>Space__c.Market__c</summaryForeignKey>
     <summaryOperation>sum</summaryOperation>
     <trackTrending>false</trackTrending>
